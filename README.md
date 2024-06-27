@@ -10,7 +10,7 @@ In deze repository zit:
 - oefenexamen
 
 ### Hoe los ik de praktijk oefeningen op?
-In elke folder zit een main.py, tests.py en opdracht.txt. In de main.py schrijf je de functies die worden gevragen in opdracht.txt. In tests.py kan je net zoals bij Java unittests completen die controlleren of de code ongeveer juist is (disclaimer: Er kunnen kleine fouten/dingen die ik heb overzien in zitten).
+In elke folder zit een main.py, tests.py en opdracht.txt. In de main.py schrijf je de functies die worden gevragen in opdracht.txt. In tests.py kan je net zoals bij Java unittests runnen die controlleren of de code ongeveer juist is (disclaimer: Er kunnen kleine fouten/dingen die ik heb overzien in zitten).
 
 Ben je klaar? Bekijk in de oplossingen folder voor werkende functies die voldoen aan elke test. Zo kan je controlleren waar je fout zat of iets hebt gemist.
 
