@@ -1,0 +1,10 @@
+
+Oefening 1:
+Maak een functie met de naam "word_breaker".
+Deze functie heeft 2 parameters, een woord en een lijst.
+Controleer of het gegeven woord een samenstelling is van 2 woorden in de lijst.
+
+Oefening 2 (vraagstuk + zeer moeilijk):
+Bert heeft een boodschappenlijst, maar hij is dislectisch, dus moet alle woorden van klein naar groot hebben.
+Hij heeft ook het liefst dat zijn functie "bertje_zijn_boodschappenlijst" noemt.
+Help Bert en zorg ervoor dat hij kan gaan winkelen!

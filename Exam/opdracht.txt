@@ -1,0 +1,77 @@
+Dit is een oefen examen. Vergelijkbaar met het eerste examen. Probeer dit op te lossen!
+
+
+-- PART 1 --
+Create a brands.py file and add this data at the top:
+
+# replace with your personal info:
+# Rnumber     Surname       Firstname      Class
+
+
+-- PART 2 --
+Create a function with these parameters:
+Name, Website, Country, Description, Founded and Number of employees
+
+In the function you should return the values given via the parameters so that the output would be for example this way:
+{
+    "name": "Nike",
+    "description": "A popular brand people love to wear!"
+    "website": "https://www.website.com/"
+    "country": "Belgium",
+    "totalEmployees": 800,
+    "yearFounded": 1890
+}
+
+
+-- PART 3 --
+Read in the contents of the shoes.csv file and display the information of the shoes in such way that we can read is in this order, example:
+
+Sport:
+    - Name: Nike
+    - About: A popular brand people love to wear!
+    - Website: https://www.website.com/
+    - Country: Belgium
+    - Total employees: 800
+    - Year founded: 1890
+
+    - Name: Adidas
+    - ...
+
+Casual:
+    - Name: Vans
+    - ...
+
+
+-- PART 4 --
+Modify the previous output so that we can easily see per sector how many employees and amount of brands we have accross all related brands.
+Warning: If the sector only has 1 brand, then we want to see "brand" instead of "brands" at the totalcount!
+Example:
+
+Sport:
+    - 2 brands
+    - 1700 employees
+    - Brands:
+        - Name: Nike
+        - About: A popular brand people love to wear!
+        - Website: https://www.website.com/
+        - Country: Belgium
+        - Total employees: 800
+        - Year founded: 1890
+
+        - Name: Adidas
+        - ...
+
+Casual:
+    - 1 brand
+    - 600 employees
+    - Brands:
+        - Name: Vans
+        - ...
+
+
+-- PART 5 --
+Write the results from PART 4 into a new file called brands_surname_firstname.json. Make sure it uses the correct JSON markdown!
+
+
+-- PART 6 (EXTRA) --
+Create an extra functionality where a user can input a new brand. This must also be stored into the JSON file you've just created!

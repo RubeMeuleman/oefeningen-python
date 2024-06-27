@@ -1,0 +1,18 @@
+
+Oefening 1:
+Schrijf een functie met naam "full_name".
+Deze functie heeft 2 parameters: Een voornaam en achternaam.
+In deze oefening moet je de volledige naam teruggeven.
+
+
+Oefening 2:
+Schrijf een functie met naam "word_counter".
+Deze functie heeft 1 parameter wat een string is.
+In deze oefening moet je het aantal woorden teruggeven dat de parameter bevat.
+
+
+Oefening 3:
+Schrijf een functie met de naam "average_number".
+Deze functie heeft 1 parameter wat een lijst van integers is.
+In deze oefening moet je het gemiddelde van de integers in de lijst meegeven.
+Zorg dat het resultaat altijd afgerond is. (Integer devision)
