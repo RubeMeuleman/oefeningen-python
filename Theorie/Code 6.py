@@ -12,7 +12,8 @@ output = function("Counter: ")
 # =========================================================================
 
 
-from Oplossingen import check
+import check
+
 antwoorden = {
     "a": "Counter: done!",
     "b": "Counter: 10 9 8 7 6 5 4 3 2 1 done!",

@@ -8,7 +8,8 @@ for i in range(0, 10):
 # =========================================================================
 
 
-from Oplossingen import check
+import check
+
 antwoorden = {
     "a": 15,
     "b": 20,

@@ -8,7 +8,8 @@ output = b
 # =========================================================================
 
 
-from Oplossingen import check
+import check
+
 antwoorden = {
     "a": True,
     "b": False
