@@ -1,4 +1,4 @@
-# Oefeningen python herexamen 
+# Oefeningen python herexamen 2023-2024
 Deze repository is gemaakt om te oefenen op het Programming Essentials examen van Thomasmore in Geel 2023-2024.
 
 ### Wat zit hier in?
