@@ -17,7 +17,7 @@ Ben je klaar? Bekijk in de oplossingen folder voor werkende functies die voldoen
 ### Hoe los ik de theorie oefeningen op?
 In de theorie folder zitten 6 Code.py files. Deze moet je simpelweg runnen en dan kan je gebruik maken van een vraag/antwoord systeem. De check.py file is voorbehouden voor de oefeningen te verbeteren, dus hier **MOET** je afblijven!
 
-Voor je het zou doen, nee in geen enkele file staan oplossingen voor de theorievragen. Afkijken kan dus niet! De theorievragen worden rechtstreeks verbeterd wanneer je een antwoord geeft.
+En nee, voor je het zou doen, in geen enkele file staan oplossingen voor de theorievragen. Afkijken kan dus niet! De theorievragen worden rechtstreeks verbeterd wanneer je een antwoord geeft.
 
 ### Hoe los ik het oefenexamen op?
 In de examen folder staat er een opdracht.txt. Hierin staat stap voor stap uitgelegd (in het engels, zoals op een echt examen) wat je moet doen voor het examen op te lossen. Er is geen verbetering voor opengesteld.
