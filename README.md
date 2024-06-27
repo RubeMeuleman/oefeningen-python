@@ -21,3 +21,5 @@ En nee, voor je het zou doen, in geen enkele file staan oplossingen voor de theo
 
 ### Hoe los ik het oefenexamen op?
 In de examen folder staat er een opdracht.txt. Hierin staat stap voor stap uitgelegd (in het engels, zoals op een echt examen) wat je moet doen voor het examen op te lossen. Er is geen verbetering voor opengesteld.
+
+Ik wens je veel success met deze hulpmiddel en hopelijk haal je het herexamen!
